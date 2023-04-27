@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class IMC_A {
+public class IMC_Terminal {
 
     public static void main(String[] args) {
 
