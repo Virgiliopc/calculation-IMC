@@ -14,7 +14,7 @@ Esse foi um projeto desenvolvido durante a mentoria Conquiste a Sua Vaga!
   <li>E caixas para inserir informações de peso e altura na sua versão IMC_Boxes;</li>  
 </ul>
 
-## :seedling: O resultado <strong>produtos</strong> apresenta:
+## :seedling: O resultado <strong>do cálculo</strong> apresenta:
 <ul>
   <li>Informações sobre o IMC conforme OMS;</li>
   <li>Alertando ao usuário sobre os graus de obesidade;</li>  
