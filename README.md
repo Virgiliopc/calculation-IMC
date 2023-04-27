@@ -8,7 +8,7 @@
 
 Esse foi um projeto desenvolvido durante a mentoria Conquiste a Sua Vaga!
 
-## :seedling: O projeto <strong>home</strong> possui:
+## :seedling: O projeto <strong>Cálculo IMC</strong> possui:
 <ul>
   <li>Campos para preenchimento de peso e altura no terminal na sua versão IMC_Terminal;</li>
   <li>E caixas para inserir informações de peso e altura na sua versão IMC_Boxes;</li>  
