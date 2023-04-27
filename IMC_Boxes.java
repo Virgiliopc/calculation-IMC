@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.text.DecimalFormat;
 
-public class IMC_B {
+public class IMC_Boxes {
 
     public static void main(String[] args) {
 
