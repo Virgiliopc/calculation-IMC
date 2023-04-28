@@ -10,7 +10,6 @@ public class IMC_Boxes {
 
         double imc = peso / (Math.pow(altura, 2));
         DecimalFormat df = new DecimalFormat();
-        df.applyPattern("##.00");
 
         if (imc < 18.5) {
             JOptionPane.showMessageDialog(null, "Seu IMC é: " + df.format(imc) + "\n Você está abaixo do peso ideal.");

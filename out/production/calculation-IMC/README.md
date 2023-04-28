@@ -1,34 +1,26 @@
 <p align="center">
-    <img src="./assets/img/one-education.png" max-width="800">
+    <img src="./img/imcTerminal.jpg" max-width="400">
+    <img src="./img/imcBox1.jpg" max-width="400">
+    <img src="./img/imcBox2.jpg" max-width="400">
+    <img src="./img/imcBox3.jpg" max-width="400">
 </p>
+
 # Cálculo de IMC 💇
 
 ## :information_source: Sobre
 
-Esse foi um projeto desenvolvido durante a formação para iniciante em programação do programa da One Oracle Education + Alura!
-O site contém as páginas de: <strong>home</strong>, <strong>produtos</strong> e <strong>contato</strong>.
+Esse foi um projeto desenvolvido durante a mentoria Conquiste a Sua Vaga!
 
-## :seedling: A página <strong>home</strong> possui:
+## :seedling: O projeto <strong>Cálculo IMC</strong> possui:
 <ul>
-  <li>Informações sobre a Barbearia Alura;</li>
-  <li>A localização do estabelecimento;</li>
-  <li>E os seus Benefícios.</li>
+  <li>Campos para preenchimento de peso e altura no terminal na sua versão IMC_Terminal;</li>
+  <li>E caixas para inserir informações de peso e altura na sua versão IMC_Boxes;</li>  
 </ul>
 
-## :seedling: A página de <strong>produtos</strong> possui:
+## :seedling: O resultado <strong>do cálculo</strong> apresenta:
 <ul>
-  <li>Informações sobre os produtos;</li>
-  <li>A descrição sobre os produtos;</li>
-  <li>Preço sobre os produtos.</li>
-</ul>
-
-## :seedling: Já a última página de <strong>Contatos</strong> possui:
-<ul>
-  <li>O formulário de contato;</li>
-  <li>A preferência da forma de contato;</li>
-  <li>O horário preferido para contato</li>
-  <li>E a opção por receber as novidades</li>
-  <li>Tabela de horários de funcionamento.</li>
+  <li>Informações sobre o IMC conforme OMS;</li>
+  <li>Alertando ao usuário sobre os graus de obesidade;</li>  
 </ul>
 
 ## :seedling: Requisitos Mínimos
@@ -39,7 +31,7 @@ Vontade de aprender.
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- HTML e CSS.
+- Java.
 
 
 ## 🚀 Let's code! 🚀
