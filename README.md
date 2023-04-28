@@ -1,6 +1,6 @@
 <p align="center">
     <img src="./img/imcTerminal.jpg" max-width="400">
-    <img src="./img/imcTerminal.jpg" max-width="400">
+    <img src="./img/imcBox.jpg" max-width="400">
 </p>
 
 # Cálculo de IMC 💇
