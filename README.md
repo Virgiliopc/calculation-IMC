@@ -14,7 +14,7 @@ Esse foi um projeto desenvolvido durante a mentoria Conquiste a Sua Vaga!
 ## :seedling: O projeto <strong>Cálculo IMC</strong> possui:
 <ul>
   <li>Campos para preenchimento de peso e altura no terminal na sua versão IMC_Terminal;</li>
-  <li>E caixas para inserir informações de peso(exemplo: 70 e altura (exemplo: 1.70) na sua versão IMC_Boxes;</li>  
+  <li>E caixas para inserir informações de peso(exemplo: 70) e altura (exemplo: 1.70) na sua versão IMC_Boxes;</li>  
 </ul>
 
 ## :seedling: O resultado <strong>do cálculo</strong> apresenta:
