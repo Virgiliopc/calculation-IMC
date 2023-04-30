@@ -1,8 +1,5 @@
 <p align="center">
-    <img src="./img/imcTerminal.jpg" max-width="400">
-    <img src="./img/imcBox.jpg" max-width="400">
-    <img src="./img/imcBox2.jpg" max-width="400">
-    <img src="./img/imcBox3.jpg" max-width="400">
+    <img src="./img/formula_imc.gif" max-width="800">    
 </p>
 
 # Cálculo de IMC 💇
@@ -27,7 +24,7 @@ Esse foi um projeto desenvolvido durante a mentoria Conquiste a Sua Vaga!
 
 Vontade de aprender.
 
-# :rocket: Material de Referência e Tecnologias Utilizadas
+## :rocket: Material de Referência e Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
